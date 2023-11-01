@@ -1,0 +1,1 @@
+# afzaliwp-wp-theme-boilerplate
